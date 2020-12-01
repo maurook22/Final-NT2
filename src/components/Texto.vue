@@ -20,6 +20,39 @@
     Cantidad de palabras: {{cantidadPalabras}}
   </p>
 
+
+  <table>
+    <tr>
+      <td>NRO PREG</td>
+      <td>RESPUESTA</td>
+    </tr>
+
+    <tr>
+      <td>1</td>
+      <td>b</td>
+    </tr>
+
+    <tr>
+      <td>2</td>
+      <td>c</td>
+    </tr>
+
+    <tr>
+      <td>3</td>
+      <td>b</td>
+    </tr>
+
+    <tr>
+      <td>4</td>
+      <td>d</td>
+    </tr>
+
+    <tr>
+      <td>5</td>
+      <td>d</td>
+    </tr>
+  </table>
+
 </template>
 
 <script>
